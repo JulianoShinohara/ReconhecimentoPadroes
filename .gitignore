@@ -134,3 +134,7 @@ etc/
 
 # execução
 **temp_data/
+
+#
+dataset/
+dataset/*
