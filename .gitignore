@@ -136,5 +136,8 @@ etc/
 **temp_data/
 
 #
-dataset/
-dataset/*
+datasets/
+datasets/*
+*.mat
+*.csv
+*.pdf
