@@ -134,10 +134,3 @@ etc/
 
 # execução
 **temp_data/
-
-#
-datasets/
-datasets/*
-*.mat
-*.csv
-*.pdf
